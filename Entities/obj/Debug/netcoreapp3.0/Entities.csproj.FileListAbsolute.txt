@@ -1,0 +1,11 @@
+F:\Projects\.Net Core\NorthwindBackend\Entities\bin\Debug\netcoreapp3.0\Entities.deps.json
+F:\Projects\.Net Core\NorthwindBackend\Entities\bin\Debug\netcoreapp3.0\Entities.dll
+F:\Projects\.Net Core\NorthwindBackend\Entities\bin\Debug\netcoreapp3.0\Entities.pdb
+F:\Projects\.Net Core\NorthwindBackend\Entities\bin\Debug\netcoreapp3.0\Core.dll
+F:\Projects\.Net Core\NorthwindBackend\Entities\bin\Debug\netcoreapp3.0\Core.pdb
+F:\Projects\.Net Core\NorthwindBackend\Entities\obj\Debug\netcoreapp3.0\Entities.csprojAssemblyReference.cache
+F:\Projects\.Net Core\NorthwindBackend\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfoInputs.cache
+F:\Projects\.Net Core\NorthwindBackend\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfo.cs
+F:\Projects\.Net Core\NorthwindBackend\Entities\obj\Debug\netcoreapp3.0\Entities.csproj.CopyComplete
+F:\Projects\.Net Core\NorthwindBackend\Entities\obj\Debug\netcoreapp3.0\Entities.dll
+F:\Projects\.Net Core\NorthwindBackend\Entities\obj\Debug\netcoreapp3.0\Entities.pdb

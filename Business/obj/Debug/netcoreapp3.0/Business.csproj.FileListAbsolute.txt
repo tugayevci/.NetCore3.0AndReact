@@ -1,0 +1,15 @@
+F:\Projects\.Net Core\NorthwindBackend\Business\bin\Debug\netcoreapp3.0\Business.deps.json
+F:\Projects\.Net Core\NorthwindBackend\Business\bin\Debug\netcoreapp3.0\Business.dll
+F:\Projects\.Net Core\NorthwindBackend\Business\bin\Debug\netcoreapp3.0\Business.pdb
+F:\Projects\.Net Core\NorthwindBackend\Business\bin\Debug\netcoreapp3.0\Core.dll
+F:\Projects\.Net Core\NorthwindBackend\Business\bin\Debug\netcoreapp3.0\DataAccess.dll
+F:\Projects\.Net Core\NorthwindBackend\Business\bin\Debug\netcoreapp3.0\Entities.dll
+F:\Projects\.Net Core\NorthwindBackend\Business\bin\Debug\netcoreapp3.0\DataAccess.pdb
+F:\Projects\.Net Core\NorthwindBackend\Business\bin\Debug\netcoreapp3.0\Entities.pdb
+F:\Projects\.Net Core\NorthwindBackend\Business\bin\Debug\netcoreapp3.0\Core.pdb
+F:\Projects\.Net Core\NorthwindBackend\Business\obj\Debug\netcoreapp3.0\Business.csprojAssemblyReference.cache
+F:\Projects\.Net Core\NorthwindBackend\Business\obj\Debug\netcoreapp3.0\Business.AssemblyInfoInputs.cache
+F:\Projects\.Net Core\NorthwindBackend\Business\obj\Debug\netcoreapp3.0\Business.AssemblyInfo.cs
+F:\Projects\.Net Core\NorthwindBackend\Business\obj\Debug\netcoreapp3.0\Business.csproj.CopyComplete
+F:\Projects\.Net Core\NorthwindBackend\Business\obj\Debug\netcoreapp3.0\Business.dll
+F:\Projects\.Net Core\NorthwindBackend\Business\obj\Debug\netcoreapp3.0\Business.pdb
