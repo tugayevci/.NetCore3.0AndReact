@@ -5554,11 +5554,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Projects\\.Net Core\\NorthwindBackend\\Business\\Business.csproj",
+      "projectUniqueName": "F:\\Projects\\.Net Core\\NorthwindBackend\\.NetCore3.0AndReact\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "F:\\Projects\\.Net Core\\NorthwindBackend\\Business\\Business.csproj",
+      "projectPath": "F:\\Projects\\.Net Core\\NorthwindBackend\\.NetCore3.0AndReact\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\tc_90\\.nuget\\packages\\",
-      "outputPath": "F:\\Projects\\.Net Core\\NorthwindBackend\\Business\\obj\\",
+      "outputPath": "F:\\Projects\\.Net Core\\NorthwindBackend\\.NetCore3.0AndReact\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5577,11 +5577,11 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "F:\\Projects\\.Net Core\\NorthwindBackend\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "F:\\Projects\\.Net Core\\NorthwindBackend\\DataAccess\\DataAccess.csproj"
+            "F:\\Projects\\.Net Core\\NorthwindBackend\\.NetCore3.0AndReact\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "F:\\Projects\\.Net Core\\NorthwindBackend\\.NetCore3.0AndReact\\DataAccess\\DataAccess.csproj"
             },
-            "F:\\Projects\\.Net Core\\NorthwindBackend\\Entities\\Entities.csproj": {
-              "projectPath": "F:\\Projects\\.Net Core\\NorthwindBackend\\Entities\\Entities.csproj"
+            "F:\\Projects\\.Net Core\\NorthwindBackend\\.NetCore3.0AndReact\\Entities\\Entities.csproj": {
+              "projectPath": "F:\\Projects\\.Net Core\\NorthwindBackend\\.NetCore3.0AndReact\\Entities\\Entities.csproj"
             }
           }
         }

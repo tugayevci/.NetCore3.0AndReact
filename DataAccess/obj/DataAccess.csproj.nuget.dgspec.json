@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Projects\\.Net Core\\NorthwindBackend\\DataAccess\\DataAccess.csproj": {}
+    "F:\\Projects\\.Net Core\\NorthwindBackend\\.NetCore3.0AndReact\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "F:\\Projects\\.Net Core\\NorthwindBackend\\Core\\Core.csproj": {
+    "F:\\Projects\\.Net Core\\NorthwindBackend\\.NetCore3.0AndReact\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projects\\.Net Core\\NorthwindBackend\\Core\\Core.csproj",
+        "projectUniqueName": "F:\\Projects\\.Net Core\\NorthwindBackend\\.NetCore3.0AndReact\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "F:\\Projects\\.Net Core\\NorthwindBackend\\Core\\Core.csproj",
+        "projectPath": "F:\\Projects\\.Net Core\\NorthwindBackend\\.NetCore3.0AndReact\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\tc_90\\.nuget\\packages\\",
-        "outputPath": "F:\\Projects\\.Net Core\\NorthwindBackend\\Core\\obj\\",
+        "outputPath": "F:\\Projects\\.Net Core\\NorthwindBackend\\.NetCore3.0AndReact\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -73,14 +73,14 @@
         }
       }
     },
-    "F:\\Projects\\.Net Core\\NorthwindBackend\\DataAccess\\DataAccess.csproj": {
+    "F:\\Projects\\.Net Core\\NorthwindBackend\\.NetCore3.0AndReact\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projects\\.Net Core\\NorthwindBackend\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "F:\\Projects\\.Net Core\\NorthwindBackend\\.NetCore3.0AndReact\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "F:\\Projects\\.Net Core\\NorthwindBackend\\DataAccess\\DataAccess.csproj",
+        "projectPath": "F:\\Projects\\.Net Core\\NorthwindBackend\\.NetCore3.0AndReact\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\tc_90\\.nuget\\packages\\",
-        "outputPath": "F:\\Projects\\.Net Core\\NorthwindBackend\\DataAccess\\obj\\",
+        "outputPath": "F:\\Projects\\.Net Core\\NorthwindBackend\\.NetCore3.0AndReact\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -99,11 +99,11 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "F:\\Projects\\.Net Core\\NorthwindBackend\\Core\\Core.csproj": {
-                "projectPath": "F:\\Projects\\.Net Core\\NorthwindBackend\\Core\\Core.csproj"
+              "F:\\Projects\\.Net Core\\NorthwindBackend\\.NetCore3.0AndReact\\Core\\Core.csproj": {
+                "projectPath": "F:\\Projects\\.Net Core\\NorthwindBackend\\.NetCore3.0AndReact\\Core\\Core.csproj"
               },
-              "F:\\Projects\\.Net Core\\NorthwindBackend\\Entities\\Entities.csproj": {
-                "projectPath": "F:\\Projects\\.Net Core\\NorthwindBackend\\Entities\\Entities.csproj"
+              "F:\\Projects\\.Net Core\\NorthwindBackend\\.NetCore3.0AndReact\\Entities\\Entities.csproj": {
+                "projectPath": "F:\\Projects\\.Net Core\\NorthwindBackend\\.NetCore3.0AndReact\\Entities\\Entities.csproj"
               }
             }
           }
@@ -141,14 +141,14 @@
         }
       }
     },
-    "F:\\Projects\\.Net Core\\NorthwindBackend\\Entities\\Entities.csproj": {
+    "F:\\Projects\\.Net Core\\NorthwindBackend\\.NetCore3.0AndReact\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projects\\.Net Core\\NorthwindBackend\\Entities\\Entities.csproj",
+        "projectUniqueName": "F:\\Projects\\.Net Core\\NorthwindBackend\\.NetCore3.0AndReact\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "F:\\Projects\\.Net Core\\NorthwindBackend\\Entities\\Entities.csproj",
+        "projectPath": "F:\\Projects\\.Net Core\\NorthwindBackend\\.NetCore3.0AndReact\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\tc_90\\.nuget\\packages\\",
-        "outputPath": "F:\\Projects\\.Net Core\\NorthwindBackend\\Entities\\obj\\",
+        "outputPath": "F:\\Projects\\.Net Core\\NorthwindBackend\\.NetCore3.0AndReact\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -167,8 +167,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "F:\\Projects\\.Net Core\\NorthwindBackend\\Core\\Core.csproj": {
-                "projectPath": "F:\\Projects\\.Net Core\\NorthwindBackend\\Core\\Core.csproj"
+              "F:\\Projects\\.Net Core\\NorthwindBackend\\.NetCore3.0AndReact\\Core\\Core.csproj": {
+                "projectPath": "F:\\Projects\\.Net Core\\NorthwindBackend\\.NetCore3.0AndReact\\Core\\Core.csproj"
               }
             }
           }

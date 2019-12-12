@@ -11,3 +11,16 @@ F:\Projects\.Net Core\NorthwindBackend\DataAccess\obj\Debug\netcoreapp3.0\DataAc
 F:\Projects\.Net Core\NorthwindBackend\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.csproj.CopyComplete
 F:\Projects\.Net Core\NorthwindBackend\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.dll
 F:\Projects\.Net Core\NorthwindBackend\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.pdb
+F:\Projects\.Net Core\NorthwindBackend\.NetCore3.0AndReact\DataAccess\bin\Debug\netcoreapp3.0\DataAccess.deps.json
+F:\Projects\.Net Core\NorthwindBackend\.NetCore3.0AndReact\DataAccess\bin\Debug\netcoreapp3.0\DataAccess.dll
+F:\Projects\.Net Core\NorthwindBackend\.NetCore3.0AndReact\DataAccess\bin\Debug\netcoreapp3.0\DataAccess.pdb
+F:\Projects\.Net Core\NorthwindBackend\.NetCore3.0AndReact\DataAccess\bin\Debug\netcoreapp3.0\Core.dll
+F:\Projects\.Net Core\NorthwindBackend\.NetCore3.0AndReact\DataAccess\bin\Debug\netcoreapp3.0\Entities.dll
+F:\Projects\.Net Core\NorthwindBackend\.NetCore3.0AndReact\DataAccess\bin\Debug\netcoreapp3.0\Core.pdb
+F:\Projects\.Net Core\NorthwindBackend\.NetCore3.0AndReact\DataAccess\bin\Debug\netcoreapp3.0\Entities.pdb
+F:\Projects\.Net Core\NorthwindBackend\.NetCore3.0AndReact\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.csprojAssemblyReference.cache
+F:\Projects\.Net Core\NorthwindBackend\.NetCore3.0AndReact\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.AssemblyInfoInputs.cache
+F:\Projects\.Net Core\NorthwindBackend\.NetCore3.0AndReact\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.AssemblyInfo.cs
+F:\Projects\.Net Core\NorthwindBackend\.NetCore3.0AndReact\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.csproj.CopyComplete
+F:\Projects\.Net Core\NorthwindBackend\.NetCore3.0AndReact\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.dll
+F:\Projects\.Net Core\NorthwindBackend\.NetCore3.0AndReact\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.pdb

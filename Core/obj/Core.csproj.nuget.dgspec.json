@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Projects\\.Net Core\\NorthwindBackend\\Core\\Core.csproj": {}
+    "F:\\Projects\\.Net Core\\NorthwindBackend\\.NetCore3.0AndReact\\Core\\Core.csproj": {}
   },
   "projects": {
-    "F:\\Projects\\.Net Core\\NorthwindBackend\\Core\\Core.csproj": {
+    "F:\\Projects\\.Net Core\\NorthwindBackend\\.NetCore3.0AndReact\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projects\\.Net Core\\NorthwindBackend\\Core\\Core.csproj",
+        "projectUniqueName": "F:\\Projects\\.Net Core\\NorthwindBackend\\.NetCore3.0AndReact\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "F:\\Projects\\.Net Core\\NorthwindBackend\\Core\\Core.csproj",
+        "projectPath": "F:\\Projects\\.Net Core\\NorthwindBackend\\.NetCore3.0AndReact\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\tc_90\\.nuget\\packages\\",
-        "outputPath": "F:\\Projects\\.Net Core\\NorthwindBackend\\Core\\obj\\",
+        "outputPath": "F:\\Projects\\.Net Core\\NorthwindBackend\\.NetCore3.0AndReact\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

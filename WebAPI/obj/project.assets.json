@@ -8363,11 +8363,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Projects\\.Net Core\\NorthwindBackend\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "F:\\Projects\\.Net Core\\NorthwindBackend\\.NetCore3.0AndReact\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "F:\\Projects\\.Net Core\\NorthwindBackend\\WebAPI\\WebAPI.csproj",
+      "projectPath": "F:\\Projects\\.Net Core\\NorthwindBackend\\.NetCore3.0AndReact\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\tc_90\\.nuget\\packages\\",
-      "outputPath": "F:\\Projects\\.Net Core\\NorthwindBackend\\WebAPI\\obj\\",
+      "outputPath": "F:\\Projects\\.Net Core\\NorthwindBackend\\.NetCore3.0AndReact\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8386,8 +8386,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "F:\\Projects\\.Net Core\\NorthwindBackend\\Business\\Business.csproj": {
-              "projectPath": "F:\\Projects\\.Net Core\\NorthwindBackend\\Business\\Business.csproj"
+            "F:\\Projects\\.Net Core\\NorthwindBackend\\.NetCore3.0AndReact\\Business\\Business.csproj": {
+              "projectPath": "F:\\Projects\\.Net Core\\NorthwindBackend\\.NetCore3.0AndReact\\Business\\Business.csproj"
             }
           }
         }
