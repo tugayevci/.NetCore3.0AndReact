@@ -257,7 +257,6 @@ F:\Projects\.Net Core\NorthwindBackend\.NetCore3.0AndReact\WebAPI\bin\Debug\netc
 F:\Projects\.Net Core\NorthwindBackend\.NetCore3.0AndReact\WebAPI\obj\Debug\netcoreapp3.0\WebAPI.csprojAssemblyReference.cache
 F:\Projects\.Net Core\NorthwindBackend\.NetCore3.0AndReact\WebAPI\obj\Debug\netcoreapp3.0\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
 F:\Projects\.Net Core\NorthwindBackend\.NetCore3.0AndReact\WebAPI\obj\Debug\netcoreapp3.0\staticwebassets\WebAPI.StaticWebAssets.xml
-F:\Projects\.Net Core\NorthwindBackend\.NetCore3.0AndReact\WebAPI\obj\Debug\netcoreapp3.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
 F:\Projects\.Net Core\NorthwindBackend\.NetCore3.0AndReact\WebAPI\obj\Debug\netcoreapp3.0\WebAPI.AssemblyInfoInputs.cache
 F:\Projects\.Net Core\NorthwindBackend\.NetCore3.0AndReact\WebAPI\obj\Debug\netcoreapp3.0\WebAPI.AssemblyInfo.cs
 F:\Projects\.Net Core\NorthwindBackend\.NetCore3.0AndReact\WebAPI\obj\Debug\netcoreapp3.0\WebAPI.RazorTargetAssemblyInfo.cache
