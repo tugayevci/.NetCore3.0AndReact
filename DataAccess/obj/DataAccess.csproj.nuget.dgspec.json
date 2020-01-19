@@ -41,9 +41,9 @@
       "frameworks": {
         "netcoreapp3.0": {
           "dependencies": {
-            "Castle.DynamicProxy": {
+            "Autofac.Extras.DynamicProxy": {
               "target": "Package",
-              "version": "[2.2.0, )"
+              "version": "[4.5.0, )"
             },
             "FluentValidation": {
               "target": "Package",

@@ -267,3 +267,6 @@ F:\Projects\.Net Core\NorthwindBackend\.NetCore3.0AndReact\WebAPI\bin\Debug\netc
 F:\Projects\.Net Core\NorthwindBackend\.NetCore3.0AndReact\WebAPI\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
 F:\Projects\.Net Core\NorthwindBackend\.NetCore3.0AndReact\WebAPI\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 F:\Projects\.Net Core\NorthwindBackend\.NetCore3.0AndReact\WebAPI\obj\Debug\netcoreapp3.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\Projects\.Net Core\NorthwindBackend\.NetCore3.0AndReact\WebAPI\bin\Debug\netcoreapp3.0\Autofac.Extras.DynamicProxy.dll
+F:\Projects\.Net Core\NorthwindBackend\.NetCore3.0AndReact\WebAPI\bin\Debug\netcoreapp3.0\Castle.Core.dll
+F:\Projects\.Net Core\NorthwindBackend\.NetCore3.0AndReact\WebAPI\bin\Debug\netcoreapp3.0\FluentValidation.dll
