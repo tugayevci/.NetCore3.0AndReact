@@ -41,6 +41,14 @@
       "frameworks": {
         "netcoreapp3.0": {
           "dependencies": {
+            "Castle.DynamicProxy": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.6.0, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[3.0.1, )"

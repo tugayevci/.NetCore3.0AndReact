@@ -263,3 +263,7 @@ F:\Projects\.Net Core\NorthwindBackend\.NetCore3.0AndReact\WebAPI\obj\Debug\netc
 F:\Projects\.Net Core\NorthwindBackend\.NetCore3.0AndReact\WebAPI\obj\Debug\netcoreapp3.0\WebAPI.csproj.CopyComplete
 F:\Projects\.Net Core\NorthwindBackend\.NetCore3.0AndReact\WebAPI\obj\Debug\netcoreapp3.0\WebAPI.dll
 F:\Projects\.Net Core\NorthwindBackend\.NetCore3.0AndReact\WebAPI\obj\Debug\netcoreapp3.0\WebAPI.pdb
+F:\Projects\.Net Core\NorthwindBackend\.NetCore3.0AndReact\WebAPI\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Projects\.Net Core\NorthwindBackend\.NetCore3.0AndReact\WebAPI\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+F:\Projects\.Net Core\NorthwindBackend\.NetCore3.0AndReact\WebAPI\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Projects\.Net Core\NorthwindBackend\.NetCore3.0AndReact\WebAPI\obj\Debug\netcoreapp3.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
